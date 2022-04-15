@@ -1,0 +1,23 @@
+{
+  "name": "phptravel",
+  "version": "1.0.0",
+  "description": "Zavrsni rad na cypress kursu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mladen-code/phptravel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mladen-code/phptravel/issues"
+  },
+  "homepage": "https://github.com/Mladen-code/phptravel#readme",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}

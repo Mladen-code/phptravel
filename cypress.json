@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.phptravels.net/login",
+    "ignoreTestFiles": ["**/1-getting-started/*", "**/2-advanced-examples/*"],
+    "viewportHeight": 768,
+    "viewportWidth": 1024
+}
