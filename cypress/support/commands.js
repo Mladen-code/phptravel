@@ -23,3 +23,16 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+Cypress.Commands.add("loginUser", (username, password) => {
+    cy.get('.form-group [name="email"]').type('user@phptravels.com', { force: true });
+    cy.get('[type="password"]').type("demouser", { force: true })
+    cy.get('[type="submit"]').contains('Login').click({ force: true })
+});
+
+Cypress.Commands.add("selectedTab", (tab) => {
+    cy.get(tab).click({ force: true })
+    cy.get(tab)
+        .invoke('attr', 'aria-selected')
+        .should('eql', 'true')
+    cy.wait(2000)
+});
