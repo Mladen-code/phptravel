@@ -33,4 +33,26 @@ describe('Homepage tab selection, and Visa tab', () => {
         cy.get('#submit').click({ force: true });
         cy.get('h2').contains('Your visa form has been submitted').should('be.visible');
     })
+
+
+    it.only('Confirm that no results are displayed for flight Dubai - Belgrade first class round trip', function() {
+        cy.loginUser(user.username, user.password);
+        cy.get('.main-menu-content a').contains('flights').click();
+        cy.get('#round-trip').check({ force: true });
+        cy.get('#flight_type').select('First', { force: true });
+        cy.get('#autocomplete').type('Dubai', { force: true })
+        cy.get('.autocomplete-result').find('.autocomplete-location').contains('Dubai, United Arab Emirates').click({ force: true });
+        cy.get('#autocomplete2').type('Belgrade', { force: true })
+        cy.get('.autocomplete-result').find('.autocomplete-location').contains('Belgrade, Serbia').click({ force: true });
+        cy.get('#flights-search').should('be.enabled');
+
+        //cy.url().should('include', '/dxb/beg/return/first/')
+        //cy.get('#loading_flight').find('.flying_from').should('have.text', "DXB");
+        //cy.get('#loading_flight').find('.destination.flying_to').should('have.text', "BEG");
+
+
+        //cy.get('h2, "SEARCH FOR BEST FLIGHTS"').should('not.be.visible');
+        //cy.get('img').should('be.visible'); // .should('have.attr', 'alt')
+        // .and('include', 'no results')
+    });
 })
