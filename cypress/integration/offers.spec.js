@@ -1,6 +1,8 @@
 /// <reference types="cypress" />
 
 import { user } from '../fixtures/config'
+import { Navigation } from '../support/pom/navigation'
+import { Navigation, Offers } from '../support/pom/offers'
 
 describe('Offers page', () => {
 
@@ -10,9 +12,8 @@ describe('Offers page', () => {
 
     it('Check if Rent a Car offer page is opened', function() {
         cy.loginUser(user.username, user.password);
-        cy.get('.main-menu-content a').contains('Offers').click();
-        cy.get(".author-bio a").contains('Rent Car').click({ force: true });
-        cy.get('h3').should('contain.text', "Rent Car")
+        cy.get(Navigation.mainMenu).contains(Navigation.offers).click();
+        cy.get(Offers.offerLink).contains(Offers.offerName).click({ force: true });
+        cy.get(Offers.offerTitle).should('contain.text', Offers.offerName)
     });
-
 })
