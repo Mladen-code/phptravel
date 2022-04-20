@@ -2,7 +2,7 @@
 
 import { user } from '../fixtures/config'
 import { Navigation } from '../support/pom/navigation'
-import { Navigation, Offers } from '../support/pom/offers'
+import { Offers } from '../support/pom/offers'
 
 describe('Offers page', () => {
 

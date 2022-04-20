@@ -1,6 +1,7 @@
 /// <reference types="cypress" />
 
 import { user } from '../fixtures/config'
+import { FlightsTestData } from '../fixtures/testData/flights'
 import { Navigation } from '../support/pom/navigation'
 import { FlightsSearchForm } from '../support/pom/flights'
 
@@ -14,10 +15,10 @@ describe('Flights page', () => {
         cy.loginUser(user.username, user.password);
         cy.get(Navigation.mainMenu).contains(Navigation.flights).click();
         cy.get(FlightsSearchForm.roundTrip).check({ force: true });
-        cy.get(FlightsSearchForm.flightType).select('First', { force: true });
-        cy.get(FlightsSearchForm.fromCitySelectList).type('Dubai', { force: true })
+        cy.get(FlightsSearchForm.flightType).select(FlightsTestData.flightTypeData, { force: true });
+        cy.get(FlightsSearchForm.fromCitySelectList).type(FlightsTestData.fromCitySelectListData, { force: true })
         cy.get(FlightsSearchForm.fromCityResults).find(FlightsSearchForm.fromCityLocation).contains(FlightsSearchForm.fromCity).click({ force: true });
-        cy.get(FlightsSearchForm.toCitySelectList).type('Belgrade', { force: true })
+        cy.get(FlightsSearchForm.toCitySelectList).type(FlightsTestData.toCitySelectListData, { force: true })
         cy.get(FlightsSearchForm.toCityResults).find(FlightsSearchForm.toCityLocation).contains(FlightsSearchForm.toCity).click({ force: true });
         cy.get(FlightsSearchForm.flightsSearchButton).should('be.enabled');
 
