@@ -1,0 +1,48 @@
+{
+  "uid" : "c18cb8a7464f0d6a",
+  "name" : "Validate successful Login",
+  "fullName" : "User login and logout.Validate successful Login",
+  "historyId" : "bbab43e4c5af12f6fe7ee4fee79871fb",
+  "time" : {
+    "start" : 1650538914347,
+    "stop" : 1650538919745,
+    "duration" : 5398
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate successful Login"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c18cb8a7464f0d6a.json",
+  "parameterValues" : [ ]
+}

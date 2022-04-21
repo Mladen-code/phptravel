@@ -1,0 +1,48 @@
+{
+  "uid" : "399376035a412d13",
+  "name" : "Check if Rent a Car offer page is opened",
+  "fullName" : "Offers page.Check if Rent a Car offer page is opened",
+  "historyId" : "87625a968ce23a18ebc4f776d28ccef9",
+  "time" : {
+    "start" : 1650538983822,
+    "stop" : 1650538996275,
+    "duration" : 12453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Offers page"
+  }, {
+    "name" : "testClass",
+    "value" : "Offers page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check if Rent a Car offer page is opened"
+  }, {
+    "name" : "package",
+    "value" : "Offers page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "399376035a412d13.json",
+  "parameterValues" : [ ]
+}

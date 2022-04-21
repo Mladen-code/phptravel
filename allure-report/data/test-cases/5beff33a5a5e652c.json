@@ -1,0 +1,58 @@
+{
+  "uid" : "5beff33a5a5e652c",
+  "name" : "Send request for Visa",
+  "fullName" : "Homepage tab selection, and Visa tab.Send request for Visa",
+  "historyId" : "d8ef4d0ca01acd7c169f23d64ce7c387",
+  "time" : {
+    "start" : 1650539294709,
+    "stop" : 1650539304807,
+    "duration" : 10098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "Send request for Visa"
+  }, {
+    "name" : "package",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf626c5d43a733e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538845097,
+        "stop" : 1650538871770,
+        "duration" : 26673
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5beff33a5a5e652c.json",
+  "parameterValues" : [ ]
+}

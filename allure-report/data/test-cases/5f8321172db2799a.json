@@ -1,0 +1,48 @@
+{
+  "uid" : "5f8321172db2799a",
+  "name" : "Confirm that button is enabled for flight Dubai - Belgrade first class round trip",
+  "fullName" : "Flights page.Confirm that button is enabled for flight Dubai - Belgrade first class round trip",
+  "historyId" : "9413b6d01d1096527d61be00357a26a8",
+  "time" : {
+    "start" : 1650538786109,
+    "stop" : 1650538805122,
+    "duration" : 19013
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Flights page"
+  }, {
+    "name" : "testClass",
+    "value" : "Flights page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Confirm that button is enabled for flight Dubai - Belgrade first class round trip"
+  }, {
+    "name" : "package",
+    "value" : "Flights page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f8321172db2799a.json",
+  "parameterValues" : [ ]
+}

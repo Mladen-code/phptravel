@@ -1,0 +1,58 @@
+{
+  "uid" : "a301f341d91d7f34",
+  "name" : "Submit form with wrong username",
+  "fullName" : "User login and logout.Submit form with wrong username",
+  "historyId" : "7ccc24f28dbb50c4698ad6879d346d45",
+  "time" : {
+    "start" : 1650539311932,
+    "stop" : 1650539315186,
+    "duration" : 3254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit form with wrong username"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa144fc6cd3ae84f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538903277,
+        "stop" : 1650538909182,
+        "duration" : 5905
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a301f341d91d7f34.json",
+  "parameterValues" : [ ]
+}

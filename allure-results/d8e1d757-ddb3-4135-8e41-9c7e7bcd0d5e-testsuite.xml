@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650538983819' stop='1650538996277'>
+    <name>Offers page</name>
+    <title>Offers page</title>
+    <test-cases>
+        <test-case start='1650538983822' status='passed' stop='1650538996275'>
+            <name>Check if Rent a Car offer page is opened</name>
+            <title>Check if Rent a Car offer page is opened</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

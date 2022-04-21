@@ -1,0 +1,58 @@
+{
+  "uid" : "9ff3b56259d30340",
+  "name" : "Submit form with empty password",
+  "fullName" : "User login and logout.Submit form with empty password",
+  "historyId" : "f020903dac115c1c26cccb9bb905e50f",
+  "time" : {
+    "start" : 1650539310586,
+    "stop" : 1650539311914,
+    "duration" : 1328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit form with empty password"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e17ee73a7e81f1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538899398,
+        "stop" : 1650538903090,
+        "duration" : 3692
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ff3b56259d30340.json",
+  "parameterValues" : [ ]
+}

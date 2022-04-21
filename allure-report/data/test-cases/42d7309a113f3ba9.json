@@ -1,0 +1,58 @@
+{
+  "uid" : "42d7309a113f3ba9",
+  "name" : "Check if link View Voucher is opened in new tab",
+  "fullName" : "My bookings page.Check if link View Voucher is opened in new tab",
+  "historyId" : "4b7cca3f9962c9618d03b04e19e4e664",
+  "time" : {
+    "start" : 1650539327899,
+    "stop" : 1650539334067,
+    "duration" : 6168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My bookings page"
+  }, {
+    "name" : "testClass",
+    "value" : "My bookings page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check if link View Voucher is opened in new tab"
+  }, {
+    "name" : "package",
+    "value" : "My bookings page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "98b9cf16eb94f826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538944812,
+        "stop" : 1650538958170,
+        "duration" : 13358
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42d7309a113f3ba9.json",
+  "parameterValues" : [ ]
+}

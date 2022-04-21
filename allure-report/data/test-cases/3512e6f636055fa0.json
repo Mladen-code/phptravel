@@ -1,0 +1,58 @@
+{
+  "uid" : "3512e6f636055fa0",
+  "name" : "Check if total bookings number is equal as number of rows in the bookings table",
+  "fullName" : "My bookings page.Check if total bookings number is equal as number of rows in the bookings table",
+  "historyId" : "8849e2ed6776591be8c95054d8e7b910",
+  "time" : {
+    "start" : 1650539334106,
+    "stop" : 1650539339043,
+    "duration" : 4937
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My bookings page"
+  }, {
+    "name" : "testClass",
+    "value" : "My bookings page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check if total bookings number is equal as number of rows in the bookings table"
+  }, {
+    "name" : "package",
+    "value" : "My bookings page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1bf0666f6e13fc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538958206,
+        "stop" : 1650538970578,
+        "duration" : 12372
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3512e6f636055fa0.json",
+  "parameterValues" : [ ]
+}

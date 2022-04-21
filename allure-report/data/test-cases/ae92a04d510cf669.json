@@ -1,0 +1,58 @@
+{
+  "uid" : "ae92a04d510cf669",
+  "name" : "Validate that tabs has appropriate class when selected",
+  "fullName" : "Homepage tab selection, and Visa tab.Validate that tabs has appropriate class when selected",
+  "historyId" : "5858ae37f2b320b766bbb5de4313c2d9",
+  "time" : {
+    "start" : 1650539279139,
+    "stop" : 1650539294693,
+    "duration" : 15554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate that tabs has appropriate class when selected"
+  }, {
+    "name" : "package",
+    "value" : "Homepage tab selection, and Visa tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bdd4e0869343a47e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538817000,
+        "stop" : 1650538845074,
+        "duration" : 28074
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae92a04d510cf669.json",
+  "parameterValues" : [ ]
+}

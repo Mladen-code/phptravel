@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650539307056' stop='1650539325805'>
+    <name>User login and logout</name>
+    <title>User login and logout</title>
+    <test-cases>
+        <test-case start='1650539307057' status='passed' stop='1650539308903'>
+            <name>Submit empty form</name>
+            <title>Submit empty form</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539309001' status='passed' stop='1650539310559'>
+            <name>Submit form with empty username</name>
+            <title>Submit form with empty username</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539310586' status='passed' stop='1650539311914'>
+            <name>Submit form with empty password</name>
+            <title>Submit form with empty password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539311932' status='passed' stop='1650539315186'>
+            <name>Submit form with wrong username</name>
+            <title>Submit form with wrong username</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539315218' status='passed' stop='1650539318209'>
+            <name>Submit form with wrong password</name>
+            <title>Submit form with wrong password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539318227' status='passed' stop='1650539321451'>
+            <name>Validate successful Login</name>
+            <title>Validate successful Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539321472' status='passed' stop='1650539325805'>
+            <name>Logout user</name>
+            <title>Logout user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

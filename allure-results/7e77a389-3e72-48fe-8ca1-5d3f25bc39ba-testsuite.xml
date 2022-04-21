@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650538786108' stop='1650538805124'>
+    <name>Flights page</name>
+    <title>Flights page</title>
+    <test-cases>
+        <test-case start='1650538786109' status='passed' stop='1650538805122'>
+            <name>Confirm that button is enabled for flight Dubai - Belgrade first class round trip</name>
+            <title>Confirm that button is enabled for flight Dubai - Belgrade first class round trip</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

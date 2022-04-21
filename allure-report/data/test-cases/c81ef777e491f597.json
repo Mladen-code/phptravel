@@ -1,0 +1,48 @@
+{
+  "uid" : "c81ef777e491f597",
+  "name" : "Logout user",
+  "fullName" : "User login and logout.Logout user",
+  "historyId" : "60d870672cac64107b1392effa493479",
+  "time" : {
+    "start" : 1650538919821,
+    "stop" : 1650538926839,
+    "duration" : 7018
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout user"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c81ef777e491f597.json",
+  "parameterValues" : [ ]
+}

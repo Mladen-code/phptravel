@@ -1,0 +1,58 @@
+{
+  "uid" : "f1dd5953216c3044",
+  "name" : "Submit empty form",
+  "fullName" : "User login and logout.Submit empty form",
+  "historyId" : "8ae6bcd1ea5426bf4a37dd5be2296195",
+  "time" : {
+    "start" : 1650539307057,
+    "stop" : 1650539308903,
+    "duration" : 1846
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit empty form"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "647640a2afa6f517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538893226,
+        "stop" : 1650538897696,
+        "duration" : 4470
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1dd5953216c3044.json",
+  "parameterValues" : [ ]
+}

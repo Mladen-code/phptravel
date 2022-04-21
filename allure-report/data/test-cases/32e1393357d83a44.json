@@ -1,0 +1,58 @@
+{
+  "uid" : "32e1393357d83a44",
+  "name" : "Submit form with wrong password",
+  "fullName" : "User login and logout.Submit form with wrong password",
+  "historyId" : "4652147b15de71b3eb4b9ea5ce12352c",
+  "time" : {
+    "start" : 1650539315218,
+    "stop" : 1650539318209,
+    "duration" : 2991
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit form with wrong password"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c0277c45ed7a4d37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650538909231,
+        "stop" : 1650538914331,
+        "duration" : 5100
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32e1393357d83a44.json",
+  "parameterValues" : [ ]
+}

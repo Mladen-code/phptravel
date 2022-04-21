@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650539327899' stop='1650539339043'>
+    <name>My bookings page</name>
+    <title>My bookings page</title>
+    <test-cases>
+        <test-case start='1650539327899' status='passed' stop='1650539334067'>
+            <name>Check if link View Voucher is opened in new tab</name>
+            <title>Check if link View Voucher is opened in new tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650539334106' status='passed' stop='1650539339043'>
+            <name>Check if total bookings number is equal as number of rows in the bookings table</name>
+            <title>Check if total bookings number is equal as number of rows in the bookings table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

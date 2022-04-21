@@ -1,0 +1,48 @@
+{
+  "uid" : "325d6ea435b78c9",
+  "name" : "Submit form with empty username",
+  "fullName" : "User login and logout.Submit form with empty username",
+  "historyId" : "3738c1d3461f9c907ef1d11b0cfbe4d8",
+  "time" : {
+    "start" : 1650538897776,
+    "stop" : 1650538899386,
+    "duration" : 1610
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "User login and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit form with empty username"
+  }, {
+    "name" : "package",
+    "value" : "User login and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "325d6ea435b78c9.json",
+  "parameterValues" : [ ]
+}

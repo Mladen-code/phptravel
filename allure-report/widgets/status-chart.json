@@ -1,0 +1,261 @@
+[ {
+  "uid" : "32e1393357d83a44",
+  "name" : "Submit form with wrong password",
+  "time" : {
+    "start" : 1650539315218,
+    "stop" : 1650539318209,
+    "duration" : 2991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5beff33a5a5e652c",
+  "name" : "Send request for Visa",
+  "time" : {
+    "start" : 1650539294709,
+    "stop" : 1650539304807,
+    "duration" : 10098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3512e6f636055fa0",
+  "name" : "Check if total bookings number is equal as number of rows in the bookings table",
+  "time" : {
+    "start" : 1650539334106,
+    "stop" : 1650539339043,
+    "duration" : 4937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2561c28863e5b2d6",
+  "name" : "Logout user",
+  "time" : {
+    "start" : 1650539321452,
+    "stop" : 1650539325743,
+    "duration" : 4291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c81b97047cf1159",
+  "name" : "Submit form with empty username",
+  "time" : {
+    "start" : 1650539309001,
+    "stop" : 1650539310559,
+    "duration" : 1558
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ff3b56259d30340",
+  "name" : "Submit form with empty password",
+  "time" : {
+    "start" : 1650539310586,
+    "stop" : 1650539311914,
+    "duration" : 1328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39693d660b6c4c7e",
+  "name" : "Send request for Visa",
+  "time" : {
+    "start" : 1650539294700,
+    "stop" : 1650539304720,
+    "duration" : 10020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4a7469609b5a709",
+  "name" : "Submit empty form",
+  "time" : {
+    "start" : 1650539307032,
+    "stop" : 1650539308859,
+    "duration" : 1827
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3505cca8f089a47",
+  "name" : "Submit form with empty password",
+  "time" : {
+    "start" : 1650539310560,
+    "stop" : 1650539311880,
+    "duration" : 1320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a87fd00804682620",
+  "name" : "Confirm that button is enabled for flight Dubai - Belgrade first class round trip",
+  "time" : {
+    "start" : 1650539268189,
+    "stop" : 1650539276688,
+    "duration" : 8499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b574bab373ca428",
+  "name" : "Validate successful Login",
+  "time" : {
+    "start" : 1650539318227,
+    "stop" : 1650539321451,
+    "duration" : 3224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a301f341d91d7f34",
+  "name" : "Submit form with wrong username",
+  "time" : {
+    "start" : 1650539311932,
+    "stop" : 1650539315186,
+    "duration" : 3254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6607003c2a982cbd",
+  "name" : "Logout user",
+  "time" : {
+    "start" : 1650539321472,
+    "stop" : 1650539325805,
+    "duration" : 4333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42d7309a113f3ba9",
+  "name" : "Check if link View Voucher is opened in new tab",
+  "time" : {
+    "start" : 1650539327899,
+    "stop" : 1650539334067,
+    "duration" : 6168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae92a04d510cf669",
+  "name" : "Validate that tabs has appropriate class when selected",
+  "time" : {
+    "start" : 1650539279139,
+    "stop" : 1650539294693,
+    "duration" : 15554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35e11e6d2b589964",
+  "name" : "Check if total bookings number is equal as number of rows in the bookings table",
+  "time" : {
+    "start" : 1650539334071,
+    "stop" : 1650539338984,
+    "duration" : 4913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "907c49744400f6e3",
+  "name" : "Check if Rent a Car offer page is opened",
+  "time" : {
+    "start" : 1650539341002,
+    "stop" : 1650539347531,
+    "duration" : 6529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a239857881f38968",
+  "name" : "Check if Rent a Car offer page is opened",
+  "time" : {
+    "start" : 1650539340982,
+    "stop" : 1650539347464,
+    "duration" : 6482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1dd5953216c3044",
+  "name" : "Submit empty form",
+  "time" : {
+    "start" : 1650539307057,
+    "stop" : 1650539308903,
+    "duration" : 1846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cac832282aa3a982",
+  "name" : "Submit form with wrong password",
+  "time" : {
+    "start" : 1650539315189,
+    "stop" : 1650539318177,
+    "duration" : 2988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce2bb42ca7327d5a",
+  "name" : "Validate successful Login",
+  "time" : {
+    "start" : 1650539318210,
+    "stop" : 1650539321424,
+    "duration" : 3214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c775385480dc7c2",
+  "name" : "Submit form with wrong username",
+  "time" : {
+    "start" : 1650539311922,
+    "stop" : 1650539315140,
+    "duration" : 3218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bc44ac7b021a63c",
+  "name" : "Submit form with empty username",
+  "time" : {
+    "start" : 1650539308906,
+    "stop" : 1650539310289,
+    "duration" : 1383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dde9c216b07f7e37",
+  "name" : "Confirm that button is enabled for flight Dubai - Belgrade first class round trip",
+  "time" : {
+    "start" : 1650539268145,
+    "stop" : 1650539276609,
+    "duration" : 8464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "456bbb95f9ac26b5",
+  "name" : "Check if link View Voucher is opened in new tab",
+  "time" : {
+    "start" : 1650539327883,
+    "stop" : 1650539334023,
+    "duration" : 6140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc02df62ea8ee025",
+  "name" : "Validate that tabs has appropriate class when selected",
+  "time" : {
+    "start" : 1650539279121,
+    "stop" : 1650539294687,
+    "duration" : 15566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

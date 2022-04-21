@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650538816974' stop='1650538871771'>
+    <name>Homepage tab selection, and Visa tab</name>
+    <title>Homepage tab selection, and Visa tab</title>
+    <test-cases>
+        <test-case start='1650538817000' status='passed' stop='1650538845074'>
+            <name>Validate that tabs has appropriate class when selected</name>
+            <title>Validate that tabs has appropriate class when selected</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650538845097' status='passed' stop='1650538871770'>
+            <name>Send request for Visa</name>
+            <title>Send request for Visa</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
